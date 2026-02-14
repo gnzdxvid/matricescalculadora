@@ -2,7 +2,6 @@
   "name": "tareaalgebra",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://gnzdxvid.github.io/matricescalculadora/",
   "dependencies": {
     "@types/node": "^18.15.0",
     "@types/react": "^18.0.28",
