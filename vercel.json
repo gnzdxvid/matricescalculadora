@@ -11,8 +11,8 @@
   ],
   "routes": [
     {
-      "src": "/build",
-      "dest": "/"
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
